@@ -8,18 +8,18 @@ const Services = () => {
 
     const servicesData = [
         {
-            title: 'Advertising',
-            description: 'We turn bold ideas into powerful digital solutions that connect, engage...',
+            title: 'Website & Web App Development',
+            description: 'We build fast, secure, and scalable websites and web applications using modern technologies like MERN Stack.',
             icon: assets.ads_icon
         },
         {
-            title: 'Content marketing',
-            description: 'We help you execute your plan and deliver results.',
+            title: 'UI/UX & Graphic Design',
+            description: 'We design clean, creative, and user-friendly interfaces that enhance user experience and brand identity.',
             icon: assets.marketing_icon
         },
         {
-            title: 'Content writing',
-            description: 'We help you create a marketing strategy that drives results.',
+            title: 'Digital Marketing',
+            description: 'We help businesses grow online using SEO, social media marketing, and paid advertising strategies.',
             icon: assets.content_icon
         },
         {
@@ -38,7 +38,7 @@ const Services = () => {
     id='services' className='relative flex flex-col items-center gap-7 px-4 sm:px-12 lg:px-24 xl:px-40 pt-30 text-gray-700 dark:text-white'>
         <img src={assets.bgImage2} alt="" className='absolute -top-110 -left-70 -z-1 dark:hidden'/>
 
-        <Title title='How can we help?' desc='From strategy to execution, we craft digital solutions that move your business forward.'/>
+        <Title title='How can we help?' desc='From idea to execution, we deliver complete digital solutions for your business growth.'/>
    
         <div className='flex flex-col md:grid grid-cols-2'>
             {servicesData.map((service, index)=>(
