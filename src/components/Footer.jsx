@@ -18,7 +18,7 @@ const Footer = ({theme}) => {
         transition={{duration:0.6,delay:0.2}}
         viewport={{once: true}}
         className='space-y-5 text-sm text-gray-700 dark:text-gray-400'>
-            <img src={theme === 'dark' ? assets.newdarklogo : assets.newlogo} className='w-32 sm:w-44' alt="" />
+            <img src={theme === 'dark' ? assets.newdarklogo1 : assets.newlogo1} className='w-32 sm:w-44' alt="" />
             <p className='max-w-md'>Dream IT Hub provides complete IT solutions including web development, UI/UX design, graphic design, and digital marketing.</p>
             <ul className='flex gap-8'>
                 <li><a className='hover:text-primary' href="#hero">Home</a></li>
