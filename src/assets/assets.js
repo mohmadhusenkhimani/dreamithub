@@ -31,8 +31,8 @@ import sun_icon from './sun_icon.svg'
 import moon_icon from './moon_icon.svg'
 import mohmadhusenImage from "./Mohmadhusen.jpeg";
 import alhasanImage from "./Alhasan.png";
-import newlogo from "./newlogo.png";
-import newdarklogo from "./newdarklogo.png";
+import newlogo1 from "./newlogo1.png";
+import newdarklogo1 from "./newdarklogo1.png";
 
 export const company_logos = [
   microsoft_logo,
@@ -45,8 +45,8 @@ export const company_logos = [
 
 const assets = {
   logo,
-  newlogo,
-  newdarklogo,
+  newlogo1,
+  newdarklogo1,
   arrow_icon,
   group_profile,
   bgImage1,
