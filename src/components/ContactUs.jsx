@@ -40,7 +40,7 @@ const ContactUs = () => {
     viewport={{once:true}}
     transition={{staggerChildren:0.2}}
     id='contact-us' className='flex flex-col items-center gap-7 px-4 sm:px-12 lg:px-24 xl:px-40 pt-30 text-gray-700 dark:text-white'> 
-      <Title title='Reach out to us' desc='From strategy to execution, we craft digital solutions that move your business forward.'/>
+      <Title title='Reach out to us' desc='Have a project in mind? Let’s discuss and turn your idea into reality.'/>
 
         <motion.form
         initial={{opacity:0,y:30}}

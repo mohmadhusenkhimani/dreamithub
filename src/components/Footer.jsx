@@ -19,7 +19,7 @@ const Footer = ({theme}) => {
         viewport={{once: true}}
         className='space-y-5 text-sm text-gray-700 dark:text-gray-400'>
             <img src={theme === 'dark' ? assets.logo_dark : assets.logo} className='w-32 sm:w-44' alt="" />
-            <p className='max-w-md'>From strategy to execution, we craft digital solutions that move your business forward.</p>
+            <p className='max-w-md'>Dream IT Hub provides complete IT solutions including web development, UI/UX design, graphic design, and digital marketing.</p>
             <ul className='flex gap-8'>
                 <li><a className='hover:text-primary' href="#hero">Home</a></li>
                 <li><a className='hover:text-primary' href="#services">Services</a></li>
