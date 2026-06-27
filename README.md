@@ -1,6 +1,6 @@
-# 🚀 Digital Agency Website
+# 🚀 Dream IT Hub Website
 
-A modern and responsive Digital Agency website built using **React.js**, **Tailwind CSS**, and **Framer Motion**. The project features smooth animations, interactive user interfaces, and a functional contact form powered by **Web3Forms**, allowing visitors to send inquiries directly to the website owner's email.
+A modern and responsive Dream IT Hub website built using **React.js**, **Tailwind CSS**, and **Framer Motion**. The project features smooth animations, interactive user interfaces, and a functional contact form powered by **Web3Forms**, allowing visitors to send inquiries directly to the website owner's email.
 
 This project demonstrates modern front-end development practices, reusable React components, responsive design, and third-party API integration.
 
